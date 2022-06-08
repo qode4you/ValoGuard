@@ -1,3 +1,6 @@
+# ValoGuard
+[![discord_rpc](https://img.shields.io/badge/JOIN-DISCORD%20SERVER-blue)](https://discord.com/invite/CVRmYjPnzz) ![discord_rpc](https://img.shields.io/badge/USING-DISCORD%20RPC-blue) ![tested_dm](https://img.shields.io/badge/TESTED-DEATHMATCH-yellowgreen) ![tested_unrated](https://img.shields.io/badge/TESTED-UNRATED-yellowgreen) ![tested_comp](https://img.shields.io/badge/TESTED-COMPETITIVE-yellowgreen)
+
 ![ValoGuard_banner](src/ValoGuard_banner.png  "ValoGuard")
 
 Never get AFK penalties again by using ValoGuard, the best anti-AFK optimised for VALORANT.

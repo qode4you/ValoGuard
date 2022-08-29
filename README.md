@@ -28,7 +28,7 @@ Never get AFK penalties again by using ValoGuard, the best anti-AFK optimised fo
 
 2. Execute ValoGuard.exe
 
-3. Enter your license key - BUY HERE: https://shoppy.gg/@Qode
+3. Enter your license key - Buy here: https://shoppy.gg/@Qode
 
 4. Use the * key to go AFK without getting penalties
 

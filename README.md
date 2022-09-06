@@ -2,7 +2,7 @@
 
 ![ValoGuard_banner](src/ValoGuard_banner.png  "ValoGuard")
 
-Never get AFK penalties again by using ValoGuard, the best anti-AFK optimised for VALORANT.
+Never get AFK penalties again by using ValoGuard, the best anti-AFK optimized for VALORANT.
 #
   
 # Preview

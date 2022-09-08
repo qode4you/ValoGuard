@@ -32,7 +32,7 @@ Never get AFK penalties again by using ValoGuard, the best anti-AFK optimized fo
 
 1. Download ValoGuard
 
-2. Execute `ValoGuard.pyc`
+2. Execute `ValoGuard`
 
 3. Use the * key to go AFK without getting penalties
 
@@ -65,7 +65,7 @@ ValoGuard stops automatically after 80 minutes, if you want to stop it earlier y
   
 
 ## ValoGuard seems bugged or is not working. What should i do?
-Please run `ValoGuard_debug.pyc` to fix common problems with ValoGuard. If you got a new license, you can also run it to remove your current key.
+Please run `ValoGuard_debug` to fix common problems with ValoGuard. If you got a new license, you can also run it to remove your current key.
 
 
 # Credits

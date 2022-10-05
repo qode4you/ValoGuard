@@ -8,8 +8,6 @@ Never get AFK penalties again by using ValoGuard, the best anti-AFK optimized fo
   
 # Preview
 ## APP
-### LICENSING
-![ValoGuard_APP](src/preview_app_1.png  "ValoGuard licensing")
 ### MAIN
 ![ValoGuard_APP](src/preview_app_2.png  "ValoGuard licensing")
 ## Discord RPC
@@ -19,8 +17,6 @@ Never get AFK penalties again by using ValoGuard, the best anti-AFK optimized fo
 ![ValoGuard_RPC 2](src/preview_rpc_2.png  "ValoGuard")
 
 # Requirements
-
-- [x] Python - 3.9.13 [[Download]](https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe)
 
 - [x] 30 MB RAM
 

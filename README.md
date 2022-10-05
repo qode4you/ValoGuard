@@ -28,7 +28,7 @@ Never get AFK penalties again by using ValoGuard, the best anti-AFK optimized fo
 
 1. Download ValoGuard from the latest [releases](https://github.com/OfficialQode/ValoGuard/releases/tag/Latest)
 
-2. Execute `ValoGuard`
+2. Execute `ValoGuard.exe`
 
 3. Use the * key to go AFK without getting penalties
 

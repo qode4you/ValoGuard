@@ -1,5 +1,5 @@
 # ValoGuard
-[![discord_rpc](https://img.shields.io/badge/JOIN-DISCORD%20SERVER-blue)](https://discord.gg/Tu4xuvAf5y) ![discord_rpc](https://img.shields.io/badge/USING-DISCORD%20RPC-blue) ![tested_dm](https://img.shields.io/badge/TESTED-DEATHMATCH-yellowgreen) ![tested_unrated](https://img.shields.io/badge/TESTED-UNRATED-yellowgreen) ![tested_comp](https://img.shields.io/badge/TESTED-COMPETITIVE-yellowgreen)
+[![discord_rpc](https://img.shields.io/badge/JOIN-DISCORD%20SERVER-blue)](https://discord.gg/2RTnsYGDWd) ![discord_rpc](https://img.shields.io/badge/USING-DISCORD%20RPC-blue) ![tested_dm](https://img.shields.io/badge/TESTED-DEATHMATCH-yellowgreen) ![tested_unrated](https://img.shields.io/badge/TESTED-UNRATED-yellowgreen) ![tested_comp](https://img.shields.io/badge/TESTED-COMPETITIVE-yellowgreen)
 
 ![ValoGuard_banner](src/ValoGuard_banner.png  "ValoGuard")
 

@@ -52,16 +52,12 @@ Activating macros that trigger actions in the game is bannable, but ValoGuard do
 
 Remember, however, that each player is responsible for the actions on his account. If you choose to use ValoGuard, it is your responsibility if you get banned for using it. I do not take any responsibility for any damage caused.
 
-  
+
 
 ## How do I stop ValoGuard?
 
 ValoGuard stops automatically after 80 minutes, if you want to stop it earlier you have to close the ValoGuard window via the X.
 
-  
-
-## ValoGuard seems bugged or is not working. What should i do?
-Please run `ValoGuard_debug` to fix common problems with ValoGuard. If you got a new license, you can also run it to remove your current key.
 
 
 # Credits

@@ -13,7 +13,7 @@ Never get AFK penalties again by using ValoGuard, the best anti-AFK optimized fo
 
 ### MAIN
 
-![ValoGuard_APP](assets/preview_app_1.png  "ValoGuard licensing")
+![ValoGuard_APP](assets\preview_app.png  "ValoGuard licensing")
 
 # Requirements
 
